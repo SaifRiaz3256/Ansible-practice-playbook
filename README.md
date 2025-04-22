@@ -55,6 +55,12 @@ Before running this playbook, ensure the following:
 
 This will install Apache, start the service, and deploy a custom index.html.
 
+## Screenshot
+
+Here is a preview of the custom Apache index page after deployment:
+
+![Index Page Preview](html-preview.png)
+
 Directory Structure
 ```
 Ansible-practice-playbook/
